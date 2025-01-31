@@ -11,10 +11,13 @@ export const languages = {
     downloadCV: "Download CV",
     viewProject: "View Project",
     viewBackOffice:"View back office",
+    sendEmail:"Send an email",
+    workSkills:"Work skills",
+    workSkillsDescription:"Experience in agile methodologies and teamwork.",
     mainDescription:
       "Passion for designing and creating projects, web applications and development work to facilitate tasks.",
     aboutDescription:
-      "Passionate developer with experience in creating innovative web solutions.",
+      "Industrial Engineer with experience and programming skills specializing in automation and optimization of industrial and business processes.",
     aboutContent:
       "With over X years of experience in web development, I specialize in creating robust and scalable applications using the latest technologies. My focus is on performance optimization and creating exceptional user experiences.",
   },
@@ -30,10 +33,13 @@ export const languages = {
     downloadCV: "Descargar CV",
     viewProject: "Ver Proyecto",
     viewBackOffice:"Ver back office",
+    sendEmail:"Enviar email",
+    workSkills:"Habilidades en trabajos",
+    workSkillsDescription:"Experiencia en métodologias ágiles y trabajo en equipo.",
     mainDescription:
       "Pasion por diseñar y crear proyectos, aplicaciones web y trabajos de desarrollo para facilitar las tareas",
     aboutDescription:
-      "Desarrollador apasionado con experiencia en crear soluciones web innovadoras.",
+      "Ingeniero Industrial con experiencia y habilidades en programación especializado en la automatización y optimización de procesos industriales y de negocio.",
     aboutContent:
       "Con más de 3 años de experiencia en el desarrollo web, me especializo en crear aplicaciones robustas y escalables utilizando las últimas tecnologías. Mi enfoque se centra en la optimización del rendimiento y la creación de experiencias de usuario excepcionales.",
   },
