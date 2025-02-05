@@ -63,7 +63,7 @@ export default function About() {
             <SkillItem icon={<GitBranch className="h-6 w-6" />} name="GitHub" />
             <SkillItem icon={<Handshake className="h-6 w-6" />} name="Kanban" />
             <SkillItem icon={<Trello className="h-6 w-6" />} name="JIRA" />
-            <SkillItem icon={<Lightbulb className="h-6 w-6" />} name="Lean" />
+            <SkillItem icon={<Lightbulb className="h-6 w-6" />} name="Devops" />
             <SkillItem icon={<Users className="h-6 w-6" />} name="Scrum" />
             <SkillItem icon={<MessageSquare className="h-6 w-6" />} name="Slack" />
           </div>
