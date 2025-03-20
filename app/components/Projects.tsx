@@ -16,7 +16,7 @@ const projects: Project[] = [
   {
     title: "ERP software",
     description: "Management integral system for SMEs and entrepreneurs",
-    technologies: ["Next.js", "TypeScript", "NeonDb", "Clerk"],
+    technologies: ["Next.js", "TypeScript", "Prisma", "Supabase", "Clerk"],
     link: "https://gestionomy.com",
   },
   {
@@ -27,29 +27,28 @@ const projects: Project[] = [
     linkB: "https://ecommerce-admin-delta-lemon.vercel.app/",
   },
   {
-    title: "Finance Tracker",
-    description: "Personal finance tracker aplication.",
-    technologies: ["Next.js", "Clerk", "Prisma", "TypeScript"],
-    link: "https://finance-tracker-app-nu.vercel.app/",
+    title: "Phone E-commerce API",
+    description: "Phone store, consultind API data and cart with zustand.",
+    technologies: ["Next.js", "API Rest", "Zustand", "JavaScript", "CSS"],
+    link: "https://napptilus-test-eight.vercel.app/",
   },
   {
     title: "Inventory Management",
     description: "Inventory management, operations, sales, purchasing and customer management.",
     technologies: ["Next.js", "MongoDB", "JavaScript"],
-    link: "https://finance-tracker-app-nu.vercel.app/",
+    link: "https://inventory-trial.vercel.app/",
   },
   {
-    title: "Bakery e-commerce",
+    title: "Bakery web page",
     description: "Full e-commerce project, paymet gateway, cart and more....",
     technologies: ["React.js", "MongoDB", "JavaScript", "node.js", "express"],
     link: "https://coco-mad-react.vercel.app/",
   },
   {
-    title: "OnePage appointment",
-    description: "Page to make and manage bookings for hairdressing salons",
-    technologies: ["React.js", "MongoDB", "JavaScript", "node.js"],
-    link: "https://appointment-management.vercel.app/",
-    linkB: "https://appointment-management.vercel.app/admin",
+    title: "Finance tracker",
+    description: "Personal finance tracker, income expenses and categories",
+    technologies: ["Next.js", "NeonDB", "TypeScript", "Prisma"],
+    link: "https://finance-tracker-app-nu.vercel.app/",
   },
 
 ]
